@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Caisere/caisere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! 👋
 
-Here are some ideas to get you started:
+### Welcome to my GitHub Profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **[your project or goal]**
+- 🌱 I’m currently learning **Frontend Development with AltSchool Africa**
+- 👯 I’m looking to collaborate on **Open-source projects or cool tech initiatives**
+- 🤔 I’m looking for help with **improving my Frontend development skills**
+- 💬 Ask me about **JavaScript, CSS, and building responsive web designs**
+- 📫 How to reach me: **[https://x.com/hormorshorlar]**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love playing football and coding late into the night!**
+
+### ✨ What You'll Find Here:
+- My journey as a **Frontend Developer** in training
+- Exciting projects, experiments, and collaborative works
+- Repositories that showcase my learning and growth in tech
+
+Feel free to explore, fork, and contribute. Let's build something amazing together! 🌟
+
