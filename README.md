@@ -3,7 +3,7 @@
 
 ### Welcome to my GitHub Profile! 🚀
 
-- 🔭 I’m currently working on **[your project or goal]**
+- 🔭 I’m currently working on **[Being One of the Best Developers]**
 - 🌱 I’m currently learning **Frontend Development with AltSchool Africa**
 - 👯 I’m looking to collaborate on **Open-source projects or cool tech initiatives**
 - 🤔 I’m looking for help with **improving my Frontend development skills**
